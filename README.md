@@ -1,5 +1,5 @@
 # chirper-app
-An app that lets you query an API for Dad Jokes, then upvote or downvote them to move them higher or lower in the list
+A simplified Twitter clone built with React and Redux
 
 # How to Install
 
