@@ -1,20 +1,8 @@
-# Chirper Project
+# chirper-app
+An app that lets you query an API for Dad Jokes, then upvote or downvote them to move them higher or lower in the list
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+# How to Install
 
-Most of the commits in this repository correspond to videos in the program.
-
-## Project Setup
-
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
-* install the dependencies - `npm install`
-
-## Contributing
-
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
-
-## License
-
-MIT
+1. Clone the project to your local machine using `$ git clone https://github.com/tlcuzick/dad-jokes.git`.
+2. Run the command `npm install` to install the dependencies for the project.
+3. Run the command `npm start` to start the web server. This should automatically open the website in your browser; if it does not, navigate to http://localhost:3000/ in your browser.
